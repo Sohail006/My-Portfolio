@@ -1,0 +1,83 @@
+.box{
+    color: white;
+    text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.1);    
+}
+.logo{ 
+    background-color: blue;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 10%;
+}
+.Menu{ 
+    background-color: red;
+    width: 90%;
+    text-align: right;
+}
+.jamostran{ background-color: yellow;}
+.box4{ background-color: purple;}
+.box5{ background-color: silver;}
+.box6{ background-color: mediumorchid;}
+.box7{ background-color: orange;}
+.box8{ background-color: sienna;}
+.box9{ background-color: gold;}
+.box10{ background-color: saddlebrown;}
+
+.topHeader{
+     display: flex;
+     flex-direction: row;
+     width:  100vw;
+}
+.header{    
+    width:  100vw;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+}
+.container{
+   height: 100vh;
+}
+h1{  
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0.3700000047683716px;
+    text-align: left;
+    width: 36%;
+    align-self: center;
+}
+p{
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 36%;
+    align-self: center;
+}
+.contect{
+    width: 36%;
+    align-self: center;
+    text-align: left;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #7F8CFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+.social-icon{
+    width: 36%;
+    align-self: center;
+}
