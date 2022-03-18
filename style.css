@@ -5,25 +5,24 @@
 }
 
 .logo {
-  background-color: blue;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 20px;
   text-align: center;
-  width: 10%;
+  width: 19%;
 }
 
 .Menu {
-  background-color: red;
-  width: 90%;
+  width: 79%;
   text-align: right;
 }
 
 .topHeader {
   display: flex;
   flex-direction: row;
-  width: 100vw;
+  width: 36%;
+  align-self: center;
 }
 
 .header {
@@ -35,6 +34,8 @@
 
 .container {
   height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
