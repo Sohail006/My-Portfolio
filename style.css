@@ -6,12 +6,10 @@
 
 .logo {
   background-color: blue;
-  font-family: Poppins;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 20px;
-  letter-spacing: 0em;
   text-align: center;
   width: 10%;
 }
@@ -40,7 +38,6 @@
 }
 
 h1 {
-  font-family: Poppins;
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -52,12 +49,10 @@ h1 {
 }
 
 p {
-  font-family: Poppins;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: 28px;
-  letter-spacing: 0em;
   text-align: left;
   width: 36%;
   align-self: center;
@@ -67,15 +62,11 @@ p {
   width: 36%;
   align-self: center;
   text-align: left;
-  font-family: 'Poppins';
   font-style: normal;
-  font-weight:500;
+  font-weight: 500;
   font-size: 16px;
-  color: #7F8CFF;
+  color: #7f8cff;
   flex: none;
-  order: 0;
-  flex-grow: 0;
-  margin: 0px 8px;
 }
 
 .social-icon {
