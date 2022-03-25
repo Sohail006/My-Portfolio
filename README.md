@@ -1,42 +1,31 @@
 # My-Portfolio
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My Portfolio
 
-> My First Portfolio
-
+-It is simple project developed using HTML and css. 
+It is created to show my skill at my portfolio. It will help me in future to show my skills to other peoples.
+It is mobile version of Portfolio.
 
 ## Built With
 
 - HTML, CSS
-- Figma
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+This project is consist of simple html page and can run in any browser locally. In future this is able to deply on any server.
 
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
+Simple HTML and CSS
 
 ### Usage
 
 ### Run tests
 
 ### Deployment
-
+currently run on local server
 
 
 ## Authors
@@ -47,21 +36,13 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://www.linkedin.com/in/sohail-anjum-547b6bab)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Always available to provide suppert in future
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+This whole credit of building this project is given to Microverse team and my team members
 
 ## 📝 License
 
